@@ -15,4 +15,4 @@ print(email)
 
 ## Not For Khackers
 
-Powered By [S-Amino](http://aminoapps.com/c/SirLez0) Community!
+Powered By [S-Amino](http://aminoapps.com/c/sr_lz) Community!
