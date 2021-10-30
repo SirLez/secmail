@@ -11,4 +11,4 @@ sec = secmail.SecMail()
 email = sec.generate_email(count=1)
 print(email)
 ```
-If you set the count to more than 1 it will return a list of email
+If you set the count to more than 1 it will return a list of emails
